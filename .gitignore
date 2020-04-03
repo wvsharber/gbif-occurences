@@ -1,3 +1,6 @@
+#.tif files
+*.tif
+
 #Mac DS_store
 *.DS_Store
 
